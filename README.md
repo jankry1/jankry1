@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Yana and...
+### My name is Jana and...
 
 - 🌱 I’m currently student at [Metropolia](https://www.metropolia.fi/fi/opiskelu-metropoliassa/amk-tutkinnot/tieto-ja-viestintatekniikka).
 - 🤔 I am looking for an internship to gain experience and improve my skills.
