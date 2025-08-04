@@ -1,7 +1,10 @@
-### Hi there 👋
-### My name is Jana and...
+# Hi there, I'm Yana 👋
 
-- 🌱 I’m currently student at [Metropolia](https://www.metropolia.fi/fi/opiskelu-metropoliassa/amk-tutkinnot/tieto-ja-viestintatekniikka).
-- 🤔 I am looking for an internship to gain experience and improve my skills.
-- ⚡ About me: I believe that the future inevitably lies in new technologies that are advanced yet simple to use. My desire is to work in and contribute to the company that promotes the tech industry and makes our lives easy and efficient.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jankry).
+🎓 Final-year IT student at Metropolia University of Applied Sciences  
+📊 Aspiring Data Analyst with strong interest in data storytelling, Excel, and Python  
+📈 Currently building portfolio projects using public datasets (e.g. Finland housing trends)  
+📍 Based in Helsinki | Fluent in Finnish 🇫🇮, English 🇬🇧, and Russian 🇷🇺  
+💡 Passionate about turning messy data into clean insights and real-world impact  
+
+🔗 Check out my latest project: [Finland Housing Market Analysis](https://github.com/jankry1/finland-housing-analysis)  
+📫 Reach me on [LinkedIn](https://linkedin.com/in/jankry)
