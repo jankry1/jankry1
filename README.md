@@ -14,5 +14,5 @@ I enjoy technical problem solving and building practical solutions. My projects 
 Based in Helsinki, Finland 🇫🇮  
 Fluent in Finnish, English and Russian
 
-🔗 Check out my latest project: [Finland Housing Market Analysis](https://github.com/jankry1/finland-housing-analysis)  
+🔗 Check out my [Portfolio](https://yana-process-portfolio.vercel.app/)  
 📫 Reach me on [LinkedIn](https://linkedin.com/in/jankry)
